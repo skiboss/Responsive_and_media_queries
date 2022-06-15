@@ -45,6 +45,7 @@ main {
   padding: 1em 2em;
   text-align: center;
   margin: 0 0 20px 0;
+  box-shadow: 0 6px 2px 0.8px rgba(0, 0, 255, .2);
 }
 
 .top:hover {
@@ -59,6 +60,7 @@ main {
   color: #111;
   padding: 2em 2em;
   text-align: center;
+  box-shadow: 0 7px 2px 1px rgba(0, 0, 255, .2);
 }
 
 .first-box {
